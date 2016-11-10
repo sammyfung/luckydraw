@@ -1,0 +1,29 @@
+body {
+	background-color: #294454;
+	color: #fff;
+	background-image: url(../images/yellow-circles.svg);
+	background-size: 800px 800px;
+	background-position: left -440px top -240px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	color: #F3CB02;
+}
+
+#eventname {
+        color: #F3CB02;
+        font-size: 32px;
+}
+
+#sessionname {
+        color: #F3CB02;
+        font-size: 64px;
+}
+
+#luckyperson {
+	font-size: 128px;
+}
+
+
