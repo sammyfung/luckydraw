@@ -13,7 +13,7 @@ Open Source Lucky Draw javascript program is developed by open source contributo
 
 ## Idea
 
-This projcect is developeed by Sammy Fung and other contributors, modified from a previous work by Haggen So.
+This projcect is developed by Sammy Fung and other contributors, modified from a previous work by Haggen So.
 
 The theme comes from  Hong Kong Open Source Conference 2016, and this project is used in open source conferences and events.
 
