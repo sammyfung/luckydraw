@@ -6,6 +6,9 @@ body {
 	background-position: left -440px top -240px;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	min-height: 200vh; /* Just to demonstrate scrolling */
 }
 
 h1 {
@@ -26,4 +29,25 @@ h1 {
 	font-size: 128px;
 }
 
+.bottom-bar {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 12px 0;
+	font-size: 14px;
+	z-index: 1000;
+	box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
 
+.bottom-bar a {
+	color: #1e90ff;
+	text-decoration: none;
+}
+
+.bottom-bar a:hover {
+	text-decoration: underline;
+}

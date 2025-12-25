@@ -1,4 +1,4 @@
-var data=[
+[
 "App Au",
 "Ben Bar",
 "Cat Chau",
@@ -24,5 +24,5 @@ var data=[
 "Water Wong",
 "Xavier Xoo",
 "Yellow Yo",
-"Zen Zoo",
-];
+"Zen Zoo"
+]
